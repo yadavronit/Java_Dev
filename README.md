@@ -3,16 +3,16 @@
 Welcome to my Java Development repository! This space contains backend applications and services I have developed to showcase my skills in server-side logic, database management, and API creation.
 
 ## 📖 About This Repository
-This repository focuses on backend engineering. [cite_start]It contains source code demonstrating my ability to build scalable backend systems [cite: 39][cite_start], design RESTful APIs [cite: 53][cite_start], and manage data persistence[cite: 54]. 
+This repository focuses on backend engineering. It contains source code demonstrating my ability to build scalable backend systems, design RESTful APIs, and manage data persistence. 
 
 ### 📁 Structure
-**`Springboot/`**: This directory contains my projects built utilizing the Spring Boot framework[cite: 16, 51]. It includes full-stack backend integrations, entity-relationship models, and controller logic.
+* **`Springboot/`**: This directory contains my projects built utilizing the Spring Boot framework. It includes full-stack backend integrations, entity-relationship models, and controller logic.
 
 ## 🛠️ Technologies & Skills Demonstrated
-**Language:** Java (Core & Advanced) [cite: 14]
-**Framework:** Spring Boot [cite: 16]
-**Database & Persistence:** MySQL [cite: 24, 51][cite_start], JDBC [cite: 17, 45] (CRUD Operations, Table Design) [cite_start][cite: 24, 25]
-**Architecture:** REST APIs [cite: 18, 53][cite_start], OOPS Principles (Abstraction, Encapsulation, Inheritance, Polymorphism) [cite: 27, 28]
+* **Language:** Java (Core & Advanced)
+* **Framework:** Spring Boot
+* **Database & Persistence:** MySQL, JDBC (CRUD Operations, Table Design)
+* **Architecture:** REST APIs, OOPS Principles (Abstraction, Encapsulation, Inheritance, Polymorphism)
 
 ## 🚀 Getting Started
 To run these Spring Boot applications locally on your machine:
